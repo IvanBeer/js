@@ -1,5 +1,5 @@
 const link =
-  "http://api.weatherstack.com/current?access_key=335e3544859fae40cea97d3043df91ef";
+  "http://api.weatherstack.com/current?access_key=ae08ab00a2fc10632a51bbef025a6b4f";
 
 const root = document.getElementById("root");
 const popup = document.getElementById("popup");
